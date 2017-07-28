@@ -1,1 +1,1 @@
-include ':library', ':cgeDemo'
+include ':library', ':cgeDemo', ':library_cge_only', ':testcrash'
